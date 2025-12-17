@@ -42,6 +42,7 @@ Matplotlib
 📁 Project Structure
 ├── Metabolic_Syndrome.csv
 ├── Metabolic_Syndrome_Cleaned.csv
+├── Metabolic_Syndrome_RiskScores.csv
 ├── SQL_queries.sql
 ├── Analysis.ipynb
 
